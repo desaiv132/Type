@@ -78,7 +78,9 @@ plt.show()
 
 """
 
-st.code(work, language = 'python') 
+st.code(work, language = 'python')
+
+pip install matplotlib
 
 import matplotlib.pyplot as plt 
 from matplotlib.patches import Rectangle
